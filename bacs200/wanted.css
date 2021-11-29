@@ -1,6 +1,13 @@
 /* ----------------------------------------------- */
 /* HTML Elements */
 
+* {
+    padding: 0px;
+    margin: 10px;
+    color:moccasin;
+}
+
+
 header{
     border: moccasin;
 
@@ -18,9 +25,8 @@ padding: 0px;
 margin: 0px;
 }
 
-p{
-    box-align: center;
-}
+
+
 
 ul{
     border: moccasin;
