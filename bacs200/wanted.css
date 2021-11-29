@@ -3,7 +3,7 @@
 
 header{
     border: moccasin;
-    
+
 }
 
 
@@ -16,4 +16,8 @@ h1{
 body {
 padding: 0px;
 margin: 0px;
+}
+
+p{
+    box-align: center;
 }
