@@ -1,9 +1,15 @@
 /* ----------------------------------------------- */
 /* HTML Elements */
 
+header{
+    border: moccasin;
+    
+}
+
+
 h1{
     text-align: center;
-    
+    color: black;
 }
 
 
